@@ -6,17 +6,17 @@ Final-year B.Tech CSE (AI) student building agentic AI / LLM-based systems — c
 
 ### 🔭 What I'm working on
 
-**[CatRisk Intelligence Platform](#)** — AI-powered multi-hazard disaster risk modeling for Indian districts
+**[CatRisk Intelligence Platform]** — AI-powered multi-hazard disaster risk modeling for Indian districts
 `Random Forest` `XGBoost` `SHAP` `Streamlit`
 - Final-year major project (team of 3), built with agile sprints, feature branches, and code reviews.
 
-**[CropGuard AI](#)** — Crop disease detection with Hindi-language support and weather-based risk prediction
+**[CropGuard AI]** — Crop disease detection with Hindi-language support and weather-based risk prediction
 `OpenCV` `Random Forest` `OpenWeatherMap API`
 - Trained on 50,000+ PlantVillage images, **91% accuracy** across 15 disease classes.
 - Custom 99-dim feature vector (HSV histograms + Sobel gradient textures).
 - 🚀 [Live on Streamlit Cloud](#)
 
-**[CryptoGuard AI](#)** — LangChain + Gemini agent that detects crypto scams
+**[CryptoGuard AI]** — LangChain + Gemini agent that detects crypto scams
 `LangChain` `Gemini API` `Agentic AI`
 - 3 specialized tools (NLP text classifier, wallet analyzer, URL phishing detector) with autonomous routing.
 - 4-tier risk classification (CRITICAL → LOW), dark space-themed UI.
@@ -42,7 +42,7 @@ Final-year B.Tech CSE (AI) student building agentic AI / LLM-based systems — c
 ---
 
 ### 📫 Reach me
-[LinkedIn](#) · [Email](#)
+[LinkedIn](www.linkedin.com/in/kumari-pratibha-mani-973794294) · [Email](pratibhaa2617@gmail.com)
 
 <!--
 NOTES FOR PRATIBHA (delete before publishing):
