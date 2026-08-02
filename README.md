@@ -1,6 +1,6 @@
 # Hi, I'm Pratibha 👋
 
-Final-year B.Tech CSE (AI) student building agentic AI / LLM-based systems — currently looking for **AI/ML internships**.
+Final-year B.Tech CSE (AI) student building agentic AI / LLM-based systems.
 
 ---
 
