@@ -14,13 +14,13 @@ Final-year B.Tech CSE (AI) student building agentic AI / LLM-based systems — c
 `OpenCV` `Random Forest` `OpenWeatherMap API`
 - Trained on 50,000+ PlantVillage images, **91% accuracy** across 15 disease classes.
 - Custom 99-dim feature vector (HSV histograms + Sobel gradient textures).
-- 🚀 [Live on Streamlit Cloud](#)
+- 🚀 [Live on Streamlit Cloud](https://crop-disease-detector-adekwzokjfrsps6yzhh8d6.streamlit.app/)
 
 **[CryptoGuard AI]** — LangChain + Gemini agent that detects crypto scams
 `LangChain` `Gemini API` `Agentic AI`
 - 3 specialized tools (NLP text classifier, wallet analyzer, URL phishing detector) with autonomous routing.
 - 4-tier risk classification (CRITICAL → LOW), dark space-themed UI.
-- 🚀 [Live on Streamlit Cloud](#)
+  
 
 ---
 
