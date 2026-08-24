@@ -7,7 +7,7 @@ Final-year B.Tech CSE (AI) student building agentic AI / LLM-based systems.
 ### 🔭 What I'm working on
 
 **[CatRisk Intelligence Platform]** — AI-powered multi-hazard disaster risk modeling for Indian districts
-`Random Forest` `XGBoost` `SHAP` `Streamlit`
+`Random Forest` `XGBoost` `SHAP` 
 - Final-year major project (team of 3), built with agile sprints, feature branches, and code reviews.
 
 **[CropGuard AI]** — Crop disease detection with Hindi-language support and weather-based risk prediction
